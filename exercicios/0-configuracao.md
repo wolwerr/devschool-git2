@@ -11,5 +11,3 @@ O git precisa saber quem é o autor e email do usuário, para isso você pode co
 O git também precisa de um editor de texto, por padrão é utilizado o "vim", mas ele é um pouco complicado para quem não está acostumado. Podemos alterar o editor para o vscode:
 
 > git config --global core.editor code --wait
-
-teste
