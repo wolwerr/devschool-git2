@@ -6,4 +6,4 @@ Podemos também inspecionar o estado da nossa workspace atual com o comando `git
 
 Tente adicionar seu nome na linha abaixo, adicionar e comitar o arquivo:
 
-Luis
+Ricardo
